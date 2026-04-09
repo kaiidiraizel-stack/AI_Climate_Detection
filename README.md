@@ -1,4 +1,4 @@
-## AI Climate Change Detection & Forecasting## Project Overview
+## AI Climate Change Detection & Forecasting
 This project demonstrates how Artificial Intelligence can be used to analyze environmental data. Using Linear Regression, the model identifies long-term temperature trends from 1900 to the present and generates a predictive forecast for the next 50 years. It also visualizes the statistical shift in climate patterns to show the increasing frequency of extreme heat.
 ## Features
 
